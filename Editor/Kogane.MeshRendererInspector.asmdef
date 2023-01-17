@@ -1,0 +1,18 @@
+{
+    "name": "Kogane.MeshRendererInspector",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4fe029b25a9544053a16b7cd34af4f6b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
